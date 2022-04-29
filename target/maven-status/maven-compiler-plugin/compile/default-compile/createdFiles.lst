@@ -1,0 +1,7 @@
+com/Multi/testapp/runner/DBRunner.class
+com/Multi/testapp/controller/AnimalRestController.class
+com/Multi/testapp/TestAppApplication.class
+com/Multi/testapp/repository/AnimalRepository.class
+com/Multi/testapp/service/AnimalService.class
+com/Multi/testapp/exception/ResourceNotFoundException.class
+com/Multi/testapp/entity/Animal.class
